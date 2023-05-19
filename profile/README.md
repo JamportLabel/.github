@@ -1,7 +1,7 @@
 ## Welcome to the Jamport Label Github Team!
 
 <p align="center">
-  <img align="center" src="https://github.com/JamportLabel/Jamport-Design/blob/383b6940c5774056001ade4c005452ed9f95facb/JamportFullLogo.png" width="600">
+  <img align="center" src="https://github.com/JamportLabel/Jamport-Design/blob/383b6940c5774056001ade4c005452ed9f95facb/JamportFullLogo.png" width="500">
 </p>
 
 Jamport Label is a music label that focuses on promoting and developing emerging artists in the electronic music scene. Our Github team plays a crucial role in helping us achieve this goal, as we use this platform to collaborate on projects, share code, and manage our development processes.
